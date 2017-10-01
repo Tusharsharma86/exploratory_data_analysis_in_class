@@ -1,18 +1,18 @@
-# Linear Regression
+# Exploratory Data Analysis
 ![GitHub Logo](https://s3.ap-south-1.amazonaws.com/greyatom-social/GreyAtom-logo.png)
 
 Learn how to explore data by creating and interpreting data graphics. This session is taught using matplotlib and pandas
 
 ## At a glance
 * In Class Instruction: 4 Hours
-  * In Class code along Dataset: Iowa Housing Prices
-  
+  * In Class code along Dataset: Housing Prices Dataset
+
 * Project Dataset:Iowa Housing Prices
   * Estimated Time to complete Project Tasks: 1 Hour
   * Total sub tasks within the Project: 6
   * Complexity of sub tasks : Mid to High
   * Points to be scored : 550
-  
+
 
 * Skills Rehearsed
   * Perform Exploratory Data Analysis using matplotlib and pandas
@@ -44,10 +44,9 @@ Check the Jupyter Notebook in the top right of the screen
 
 
 
-## Project 
+## Project
 Iowa Dataset
 
-Ask a home buyer to describe their dream house, and they probably won't begin with the height of the basement ceiling or the proximity to an east-west railroad. But this dataset will help you determine aspects which influence price of a property other than sq.ft. area and locality. 
+Ask a home buyer to describe their dream house, and they probably won't begin with the height of the basement ceiling or the proximity to an east-west railroad. But this dataset will help you determine aspects which influence price of a property other than sq.ft. area and locality.
 
 Make your first prediction with our favourite ML algorithm!
-
